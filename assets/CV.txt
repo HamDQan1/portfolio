@@ -1,0 +1,47 @@
+===========================================
+HUTHAYFA ABDULRAUF MOHAMMAD DERHAM
+===========================================
+
+CONTACT INFORMATION
+------------------
+Address: Albukhary International University
+         Jalan Tun Abdul Razak
+         Alor Setar 05200, Kedah, Malaysia
+Phone:   +60 182606635
+Email:   huthayfa.derham@gmail.com
+LinkedIn: https://my.linkedin.com/in/huthayfa-abdulrauf-mohammad-derham
+
+PROFESSIONAL SUMMARY
+------------------
+A motivated and dedicated student currently pursuing a degree at Albukhary International University. 
+Passionate about technology and eager to leverage academic knowledge in practical settings. 
+Committed to developing skills in programming and problem-solving to contribute effectively to 
+innovative projects.
+
+EDUCATION
+---------
+Bachelor of Science in Computer Science (In Progress)
+Albukhary International University
+Expected Graduation: 2026
+
+RELEVANT COURSEWORK
+------------------
+• Data Structures
+• Algorithms
+• Object-Oriented Programming
+• Database Fundamentals
+
+TECHNICAL SKILLS
+---------------
+Programming:
+• Python
+• Java
+• HTML
+• CSS
+• JavaScript
+
+SOFT SKILLS
+-----------
+• Problem-solving
+• Teamwork
+• Communication
